@@ -15,5 +15,5 @@ pip install -r requirements.txt
 
 
 ```
-python Ddos.py
+python DDOS.py
 ```
