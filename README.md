@@ -6,7 +6,7 @@
 git clone https://github.com/sabit670/Ddos
 ```
 ```
-cd Fb_cracker
+cd Ddos
 ```
 
 ```
@@ -15,5 +15,5 @@ pip install -r requirements.txt
 
 
 ```
-python sabittx.py
+python Ddos.py
 ```
